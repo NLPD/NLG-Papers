@@ -1,4 +1,5 @@
-# NLG Infuential Papers
+# NLG Infuential Papers with random notes
+
 
 |Paper|Year|
 |---|---|
